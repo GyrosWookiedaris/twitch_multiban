@@ -3,6 +3,7 @@ Multibantool for twitch (e.g. followbots). Just execute the file and go through 
 
 # Usage
 Just execute the .exe file. The wizard will guide you through the needed input from your side.
+I'd recommend to put the .exe in a seperate directory.
 
 # Self compiling
 ```
