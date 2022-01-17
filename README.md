@@ -5,6 +5,11 @@ Multibantool for twitch (e.g. followbots). Just execute the file and go through 
 Just execute the .exe file. The wizard will guide you through the needed input from your side.
 I'd recommend to put the .exe in a seperate directory.
 
+## Important information
+Take care of the rates mentioned in the wizard. If you exceed these rates you may get temporarily banned from the twitch chat.
+
+Also remember: One user per line in the banlist.txt
+
 # Self compiling
 ```
 pip install pyinstaller
